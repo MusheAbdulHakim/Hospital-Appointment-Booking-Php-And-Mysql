@@ -97,7 +97,7 @@
         <div class="sub-footer">
             <div class="container">
                 <div class="row">
-                    <p>Copyright © 2016. All rights reserved</p>
+                    <p>Copyright © <?php echo date('yy'); ?>. All rights reserved</p>
                 </div>
             </div>
         </div>
