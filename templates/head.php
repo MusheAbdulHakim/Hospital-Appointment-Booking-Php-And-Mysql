@@ -5,7 +5,7 @@
         <!-- Favicon -->
         <link rel="shortcut icon" href="images/fev-icon.png"/>
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title><?php echo "Hotel || ".$title; ?></title>
+        <title><?php echo "Hospital || ".$title; ?></title>
         <!-- Google font -->
         <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
         <!-- Bootstrap -->
